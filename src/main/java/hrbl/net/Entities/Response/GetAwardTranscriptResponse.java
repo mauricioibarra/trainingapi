@@ -1,10 +1,9 @@
-package Entities.Response;
+package hrbl.net.Entities.Response;
 
-import Entities.MemberAward;
+import hrbl.net.Entities.MemberAward;
 import lombok.Data;
 
 import java.util.ArrayList;
-import java.util.Hashtable;
 import java.util.List;
 
 @Data

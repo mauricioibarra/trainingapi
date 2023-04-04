@@ -1,7 +1,7 @@
-package Entities.Request;
+package hrbl.net.Entities.Request;
 
-import Entities.TrackingStatus;
-import Entities.Interface;
+import hrbl.net.Entities.TrackingStatus;
+import hrbl.net.Entities.Interface;
 import lombok.Data;
 import org.wildfly.common.annotation.NotNull;
 import org.wildfly.common.annotation.Nullable;

@@ -1,4 +1,4 @@
-package Entities.Request;
+package hrbl.net.Entities.Request;
 
 import lombok.Data;
 

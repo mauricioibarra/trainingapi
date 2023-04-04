@@ -1,4 +1,4 @@
-package Entities;
+package hrbl.net.Entities;
 
 public enum Interface {
     IVRSERVICE,

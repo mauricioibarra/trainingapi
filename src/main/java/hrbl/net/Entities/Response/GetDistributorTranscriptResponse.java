@@ -1,7 +1,6 @@
-package Entities.Response;
+package hrbl.net.Entities.Response;
 
-import Entities.DistributorCourseTracking;
-import Entities.MemberAward;
+import hrbl.net.Entities.DistributorCourseTracking;
 import lombok.Data;
 
 import java.util.ArrayList;

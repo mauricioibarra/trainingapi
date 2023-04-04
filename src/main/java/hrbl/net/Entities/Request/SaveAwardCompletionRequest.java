@@ -1,11 +1,17 @@
-package Entities;
+package hrbl.net.Entities.Request;
+
+import hrbl.net.Entities.TrackingStatus;
+import lombok.Data;
 
 import java.time.LocalDateTime;
+import java.util.UUID;
 
-public class MemberAward {
+@Data
+
+public class SaveAwardCompletionRequest {
     public String dsId;
 
-    public String uniqueId;
+    public UUID uniqueId;
     public String awardTier;
 
     public String awardType;

@@ -1,4 +1,4 @@
-package Entities;
+package hrbl.net.Entities;
 
 import org.wildfly.common.annotation.Nullable;
 

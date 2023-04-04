@@ -1,10 +1,10 @@
 package hrbl.net;
 
 
-import Entities.*;
-import Entities.Request.*;
-import Entities.Response.*;
-import org.eclipse.microprofile.openapi.annotations.parameters.Parameter;
+
+import hrbl.net.Entities.*;
+import hrbl.net.Entities.Request.*;
+import hrbl.net.Entities.Response.*;
 import org.wildfly.common.annotation.Nullable;
 
 import javax.ws.rs.*;
